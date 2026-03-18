@@ -16,7 +16,7 @@ disrupt the performance of the target server.
 By using this software, you agree to take full responsibility for your actions.
 
 
-I wrote this scraper some time ago for a friend of mine and as a personal learning
+I created this scraper some time ago for a friend of mine and as a personal learning
 experience, maybe someone else finds it useful for their project or study.
 
 It is an example on how to scrape complex data from a website, where the desired
