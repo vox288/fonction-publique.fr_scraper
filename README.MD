@@ -6,12 +6,12 @@
 
  Usage Responsibility:
  
-     The author of this script is not responsible for any misuse or potential damage caused by this tool.
-     Users are strictly advised to comply with the Terms of Service (ToS) of the targeted websites and ensure that
-     their scraping activities do not violate any local or international laws.
-     Always check the website's robots.txt file and respect the site's crawling policies.
-     Do not use this script for large-scale data harvesting or any activity that may
-     disrupt the performance of the target server.
+ The author of this script is not responsible for any misuse or potential damage caused by this tool.
+ Users are strictly advised to comply with the Terms of Service (ToS) of the targeted websites and ensure that
+ their scraping activities do not violate any local or international laws.
+ Always check the website's robots.txt file and respect the site's crawling policies.
+ Do not use this script for large-scale data harvesting or any activity that may
+ disrupt the performance of the target server.
  
  By using this software, you agree to take full responsibility for your actions.
 
