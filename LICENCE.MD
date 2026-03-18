@@ -1,0 +1,28 @@
+This project uses the following third-party libraries:
+
+
+### Requests
+- **License:** Apache License 2.0
+- **Copyright:** Copyright 2019 Kenneth Reitz
+- **Source:** https://github.com/psf/requests
+
+### Tablib
+- **License:** MIT License
+- **Copyright:** Copyright 2016 Kenneth Reitz
+                 Copyright 2019 Jazzband
+- **Source:** https://github.com/jazzband/tablib/blob/master/LICENSE
+
+### libxml2 and libxslt (Dependencies of lxml)
+- **License:** MIT License
+- **Description:** Underlying C libraries used by lxml.
+
+### lxml
+- **License:** BSD-3-Clause
+- **Copyright:** Copyright 2004 Infrae. All rights reserved.
+- **Source:** https://lxml.de/
+
+### BeautifulSoup4 (bs4)
+- **License:** MIT License
+- **Copyright:** Copyright (c) 2004-2024 Leonard Richardson
+- **Source:** https://beautiful-soup-4.readthedocs.io
+
