@@ -1,33 +1,33 @@
 
-# [!IMPORTANT]
-# Disclaimer: For Educational Purposes Only
-# This project is developed solely for educational and research purposes.
-# It is intended to demonstrate web scraping techniques and data processing workflows.
-#
-# Usage Responsibility:
-# 
-#     The author of this script is not responsible for any misuse or potential damage caused by this tool.
-#     Users are strictly advised to comply with the Terms of Service (ToS) of the targeted websites and ensure that
-#     their scraping activities do not violate any local or international laws.
-#     Always check the website's robots.txt file and respect the site's crawling policies.
-#     Do not use this script for large-scale data harvesting or any activity that may
-#     disrupt the performance of the target server.
-# 
-# By using this software, you agree to take full responsibility for your actions.
+ [!IMPORTANT]
+ Disclaimer: For Educational Purposes Only
+ This project is developed solely for educational and research purposes.
+ It is intended to demonstrate web scraping techniques and data processing workflows.
+
+ Usage Responsibility:
+ 
+     The author of this script is not responsible for any misuse or potential damage caused by this tool.
+     Users are strictly advised to comply with the Terms of Service (ToS) of the targeted websites and ensure that
+     their scraping activities do not violate any local or international laws.
+     Always check the website's robots.txt file and respect the site's crawling policies.
+     Do not use this script for large-scale data harvesting or any activity that may
+     disrupt the performance of the target server.
+ 
+ By using this software, you agree to take full responsibility for your actions.
 
 
-# I wrote this scraper some time ago for a friend of mine and as a personal learning
-# experience, maybe someone else finds it useful for their project or study.
-#
-# It is an example on how to scrape complex data from a website, where the desired
-# information is embedded in nested articles over several pages. 
-# The code doesn't use any threadding or other optimization for performance improve
-# on purpose so the target server is not beeing overwhelmed.
-# It can scrape about 1000 Jobs in a few minutes though.
-# 
-#
-# # Author: Jens Michalik     E-Mail: vox288@gmail.com
-#
+ I wrote this scraper some time ago for a friend of mine and as a personal learning
+ experience, maybe someone else finds it useful for their project or study.
+
+ It is an example on how to scrape complex data from a website, where the desired
+ information is embedded in nested articles over several pages. 
+ The code doesn't use any threadding or other optimization for performance improve
+ on purpose so the target server is not beeing overwhelmed.
+ It can scrape about 1000 Jobs in a few minutes though.
+ 
+
+ Author: Jens Michalik     E-Mail: vox288@gmail.com
+
 
 
 Job_Scraper Version 1.0 
